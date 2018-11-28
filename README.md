@@ -131,3 +131,4 @@ This bonus will be a challenge! To complete this step, you'll need to do some Go
 [MDN Reference for Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 [MDN Reference for the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+# Objects
